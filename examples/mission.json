@@ -1,0 +1,5 @@
+[
+  {"id":"accelerate","durationSeconds":2,"targetSpeedRpm":6000,"loadTorqueNm":0.1,"driveEfficiency":0.9},
+  {"id":"cruise","durationSeconds":5,"targetSpeedRpm":6000,"loadTorqueNm":0.1,"driveEfficiency":0.92},
+  {"id":"brake","durationSeconds":2,"targetSpeedRpm":0,"loadTorqueNm":0,"regenEfficiency":0.7}
+]

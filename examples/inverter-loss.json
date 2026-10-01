@@ -1,0 +1,12 @@
+{
+  "phaseCurrentRmsA":10,
+  "busVoltageV":48,
+  "switchingFrequencyHz":20000,
+  "rdsOnMilliohm":10,
+  "junctionTemperatureC":75,
+  "rdsTemperatureCoefficientPerC":0.004,
+  "riseTimeNs":50,
+  "fallTimeNs":50,
+  "gateChargeNc":50,
+  "gateDriveVoltageV":10
+}

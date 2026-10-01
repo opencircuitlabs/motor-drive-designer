@@ -1,0 +1,7 @@
+{
+  "ambientC":35,
+  "thermalResistanceCPerW":3,
+  "maximumTemperatureC":100,
+  "heatCapacityJPerC":100,
+  "durationSeconds":300
+}

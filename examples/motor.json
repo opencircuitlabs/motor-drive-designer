@@ -1,0 +1,12 @@
+{
+  "name":"compact-bldc",
+  "kvRpmPerVolt":1000,
+  "resistanceOhm":0.2,
+  "phaseInductanceMicrohenry":100,
+  "noLoadCurrentA":1,
+  "maximumCurrentA":20,
+  "maximumSpeedRpm":20000,
+  "kvTolerancePercent":5,
+  "resistanceTolerancePercent":10,
+  "currentTolerancePercent":5
+}
